@@ -1,0 +1,14 @@
+.user-form {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.user-form .ant-tabs-tab-btn {
+  line-height: 1.5em;
+  font-size: 18px;
+  font-family: "Oswald", sans-serif;
+  transform: scale(0.8, 1.2);
+  font-weight: 600;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+}

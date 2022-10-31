@@ -1,0 +1,61 @@
+.beta-navbar{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15%;
+    padding-right: 15%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px !important;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+
+.list li {
+  display: inline-block;
+  margin-top: 15px;
+}
+
+.list li a {
+  font-size: 18px;
+  cursor: pointer;
+  color: #333;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  transform: scale(0.75, 1.2);
+  display: inline-block;
+  margin: auto;
+  letter-spacing: 0.01em;
+}
+
+.list li :hover {
+  color: #337ab7;
+}
+
+
+.my-select-container , .ant-select , .ant-select-selector{
+    width: 150px !important;
+    border-radius: 25px !important;
+}
+
+.ant-select-selection-item {
+    font-weight: 600 !important;
+    color: #333 !important;
+    font-size: 13px !important;
+    overflow :visible !important;
+}
+
+.ant-select-selection-item :hover{
+    color: #337ab7 !important;
+}
+
+.ant-select-dropdown ,.ant-tree-select-dropdown , .ant-select-dropdown-placement-bottomLeft , .ant-select-dropdown-hidden{
+    width: 300px !important;
+}
+
+
+
+
+

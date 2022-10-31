@@ -1,0 +1,1628 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "img": "https://files.betacorp.vn/files/media%2fimages%2f2022%2f07%2f20%2fthu-172758-200722-25.jpg",
+      "movie": "Thám tử lừng danh Conan",
+      "type": "Tội phạm, Hành Động",
+      "time": "111 phút",
+      "youtube": "https://www.youtube.com/watch?v=LiBtjMrddfM",
+      "status": 1,
+      "timeline": [
+        {
+          "day": 24,
+          "month": 10,
+          "t": "T2",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://files.betacorp.vn/files/media%2fimages%2f2022%2f05%2f25%2fthor-400x633-151136-250522-13.jpg",
+      "movie": "Thor: Tình yêu và sấm sét",
+      "type": "Thần thoại, hành động",
+      "time": "118 phút",
+      "youtube": "https://www.youtube.com/watch?v=cWjljLpRTEs",
+      "status": 1,
+      "timeline": [
+        {
+          "day": 24,
+          "month": 10,
+          "t": "T2",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://files.betacorp.vn/files/media%2fimages%2f2022%2f05%2f19%2fminions-2-the-rise-of-gru-01-7-22-400x633-102804-190522-75.jpg",
+      "movie": "Minion: Sự trỗi dậy của Gru",
+      "type": "Hoạt Hình",
+      "time": "100 phút",
+      "youtube": "https://www.youtube.com/watch?v=Q0Rq5jGGFFg",
+      "status": 3,
+      "timeline": [
+        {
+          "day": 24,
+          "month": 10,
+          "t": "T2",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "https://files.betacorp.vn/files/media%2fimages%2f2022%2f07%2f12%2f288799299-715854369487191-2101945136695086040-n-111735-120722-30.jpg",
+      "movie": "Là mây trên bầu trời của ai đó",
+      "type": "Lãng mạn, Hài Hước",
+      "time": "90 phút",
+      "youtube": "https://www.youtube.com/watch?v=6jEVrE_LKas",
+      "status": 1,
+      "timeline": [
+        {
+          "day": 24,
+          "month": 10,
+          "t": "T2",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://files.betacorp.vn/files/media%2fimages%2f2022%2f07%2f06%2f288206856-363865429219942-5827087868605593198-n-142240-060722-45.jpg",
+      "movie": "Pororo: Cuộc phiêu lưu đến đảo hoang",
+      "type": "Hoạt hình",
+      "time": "79 phút",
+      "youtube": "https://www.youtube.com/watch?v=qLpkqZ5-McE",
+      "status": 3,
+      "timeline": [
+        {
+          "day": 24,
+          "month": 10,
+          "t": "T2",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "https://files.betacorp.vn/files/media%2fimages%2f2022%2f07%2f07%2f290618771-6430501400555688-8777609933829089108-n-121845-070722-11.jpg",
+      "movie": "Quyết tâm chia tay",
+      "type": "Tình cảm, Tội phạm",
+      "time": "100 phút",
+      "youtube": "https://www.youtube.com/watch?v=Ca_f4jlkwNo&t=1s",
+      "status": 2,
+      "timeline": [
+        {
+          "day": 24,
+          "month": 10,
+          "t": "T2",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "https://files.betacorp.vn/files/media%2fimages%2f2022%2f07%2f07%2f291772181-1510012016105808-4183368094861535203-n-174819-070722-18.jpg",
+      "movie": "Karem: Vật chứa tử thần",
+      "type": "Kinh dị, Hồi hộp",
+      "time": "81 phút",
+      "youtube": "https://www.youtube.com/watch?v=BopwwgyOpp0&t=1s",
+      "status": 1,
+      "timeline": [
+        {
+          "day": 24,
+          "month": 10,
+          "t": "T2",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "month": 10,
+          "t": "T3",
+          "filmtype": "2D PHỤ ĐỀ",
+          "data": [
+            {
+              "timeline": [
+                {
+                  "time": "11:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "12:10",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "13:15",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "14:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "15:30",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "17:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "18:45",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "20:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "21:00",
+                  "seat": "170 ghế trống"
+                },
+                {
+                  "time": "23:15",
+                  "seat": "170 ghế trống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "movie-by-cinema": [
+    {
+      "day": 24,
+      "month": 10,
+      "t": "T2",
+      "data": [
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/22/untitled-1-022918-221022-93.jpg",
+          "name": "Black Adam (DC)",
+          "time": "125 phút",
+          "type": "Hành động, Phiêu lưu",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "11:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "12:10",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "13:15",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "14:30",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "15:30",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "17:45",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "18:45",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "20:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "21:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "23:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/09/30/cgtqk-newposter-162203-300922-75.jpg",
+          "name": "Cô Gái Từ Quá Khứ",
+          "time": "105 phút",
+          "type": "Hồi hộp, Ly kì",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "11:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "12:10",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "13:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/21/untitled-1-101627-211022-81.jpg",
+          "name": "Nghi Thức Cấm",
+          "time": "103 phút",
+          "type": "Kinh dị",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "22:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/07/untitled-1-142917-071022-31.jpg",
+          "name": "Nữ Vương Huyền Thoại",
+          "time": "135 phút",
+          "type": "Hành động, Lịch sử",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "09:00",
+              "seat": "72 ghế trống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "month": 10,
+      "t": "T3",
+      "data": [
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/22/untitled-1-022918-221022-93.jpg",
+          "name": "Black Adam (DC)",
+          "time": "125 phút",
+          "type": "Hành động, Phiêu lưu",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "11:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "12:10",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "13:15",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "14:30",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/09/30/cgtqk-newposter-162203-300922-75.jpg",
+          "name": "Cô Gái Từ Quá Khứ",
+          "time": "105 phút",
+          "type": "Hồi hộp, Ly kì",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "11:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "12:10",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "13:15",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "15:30",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "17:45",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "18:45",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "20:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "21:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "23:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/21/untitled-1-101627-211022-81.jpg",
+          "name": "Nghi Thức Cấm",
+          "time": "103 phút",
+          "type": "Kinh dị",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "22:15",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "23:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/07/untitled-1-142917-071022-31.jpg",
+          "name": "Nữ Vương Huyền Thoại",
+          "time": "135 phút",
+          "type": "Hành động, Lịch sử",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "09:00",
+              "seat": "72 ghế trống"
+            },
+            {
+              "time": "23:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "month": 10,
+      "t": "T4",
+      "data": [
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/22/untitled-1-022918-221022-93.jpg",
+          "name": "Black Adam (DC)",
+          "time": "125 phút",
+          "type": "Hành động, Phiêu lưu",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "11:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "12:10",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "13:15",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "14:30",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/09/30/cgtqk-newposter-162203-300922-75.jpg",
+          "name": "Cô Gái Từ Quá Khứ",
+          "time": "105 phút",
+          "type": "Hồi hộp, Ly kì",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "11:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "12:10",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "13:15",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "15:30",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "17:45",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "18:45",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "20:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "21:00",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "23:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/21/untitled-1-101627-211022-81.jpg",
+          "name": "Nghi Thức Cấm",
+          "time": "103 phút",
+          "type": "Kinh dị",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "22:15",
+              "seat": "170 ghế trống"
+            },
+            {
+              "time": "23:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        },
+        {
+          "img": "https://files.betacorp.vn/files/media/images/2022/10/07/untitled-1-142917-071022-31.jpg",
+          "name": "Nữ Vương Huyền Thoại",
+          "time": "135 phút",
+          "type": "Hành động, Lịch sử",
+          "filmtype": "2D PHỤ ĐỀ",
+          "timeline": [
+            {
+              "time": "09:00",
+              "seat": "72 ghế trống"
+            },
+            {
+              "time": "23:15",
+              "seat": "170 ghế trống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "hungtuan19990@gmail.com",
+      "password": "123456",
+      "confirm": "123456",
+      "nickname": "hungle",
+      "prefix": "84",
+      "phone": "0344609368",
+      "gender": "male",
+      "agreement": true,
+      "id": 1
+    },
+    {
+      "email": "mymy7599@gmail.com",
+      "password": "123456",
+      "confirm": "123456",
+      "nickname": "hung",
+      "prefix": "84",
+      "phone": "0344609368",
+      "gender": "male",
+      "agreement": true,
+      "id": 2
+    },
+    {
+      "email": "tqdat3@gmail.com",
+      "password": "123456",
+      "confirm": "123456",
+      "nickname": "dat gay",
+      "prefix": "84",
+      "phone": "3948957",
+      "gender": "other",
+      "agreement": true,
+      "id": 3
+    },
+    {
+      "email": "pvanh599@gmail.com",
+      "password": "123abc",
+      "confirm": "123abc",
+      "nickname": "123",
+      "prefix": "84",
+      "phone": "9128127",
+      "gender": "female",
+      "agreement": true,
+      "id": 4
+    }
+  ],
+  "ticket": [
+    {
+      "movie": "Thám tử lừng danh Conan",
+      "center": "",
+      "date": "24/10/2022",
+      "time": "12:10",
+      "email": "hungtuan19990@gmail.com",
+      "id": 1
+    },
+    {
+      "movie": "Thor: Tình yêu và sấm sét",
+      "center": null,
+      "date": "24/10/2022",
+      "time": "13:15",
+      "email": "hungtuan19990@gmail.com",
+      "id": 2
+    },
+    {
+      "movie": "Thám tử lừng danh Conan",
+      "center": "Beta Mỹ Đình",
+      "date": "24/10/2022",
+      "time": "23:15",
+      "email": "hungtuan19990@gmail.com",
+      "id": 3
+    },
+    {
+      "movie": "Thám tử lừng danh Conan",
+      "center": "Beta Thanh Xuân",
+      "date": "24/10/2022",
+      "time": "11:00",
+      "email": "hungtuan19990@gmail.com",
+      "id": 4
+    },
+    {
+      "movie": "Black Adam (DC)",
+      "center": "Beta Thanh Xuân",
+      "date": "24/10/2022",
+      "time": "11:00",
+      "email": "tqdat3@gmail.com",
+      "id": 5
+    },
+    {
+      "movie": "Black Adam (DC)",
+      "center": "Beta Thanh Xuân",
+      "date": "24/10/2022",
+      "time": "23:15",
+      "email": "tqdat3@gmail.com",
+      "id": 6
+    },
+    {
+      "movie": "Là mây trên bầu trời của ai đó",
+      "center": "Beta Thanh Xuân",
+      "date": "25/10/2022",
+      "time": "23:15",
+      "email": "hungtuan19990@gmail.com",
+      "id": 7
+    },
+    {
+      "movie": "Black Adam (DC)",
+      "center": "Beta Giải Phóng",
+      "date": "24/10/2022",
+      "time": "12:10",
+      "email": "hungtuan19990@gmail.com",
+      "id": 8
+    },
+    {
+      "movie": "Thám tử lừng danh Conan",
+      "center": "Beta Thanh Xuân",
+      "date": "24/10/2022",
+      "time": "12:10",
+      "email": "pvanh599@gmail.com",
+      "id": 9
+    },
+    {
+      "movie": "Thor: Tình yêu và sấm sét",
+      "center": "Beta Thanh Xuân",
+      "date": "24/10/2022",
+      "time": "17:45",
+      "email": "pvanh599@gmail.com",
+      "id": 10
+    }
+  ]
+}

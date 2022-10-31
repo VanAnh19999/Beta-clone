@@ -1,0 +1,74 @@
+.beta-container {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.ant-tabs-tab-btn {
+  margin: 0 !important;
+}
+
+.internal-text {
+  margin-bottom: 0;
+}
+
+.cinema-tab .ant-tabs-tab {
+  margin: 0;
+  padding: auto;
+}
+
+.big-word {
+  font-size: 38px;
+}
+
+.small-word {
+  font-size: 19px;
+}
+
+.list-item {
+  display: grid;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.big-flex-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.flex-box {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+
+}
+.flex-box-row {
+  margin-right: 10px;
+  justify-content: space-between;
+}
+
+.flex-box-btn {
+  border: none;
+  padding: 8px 25px 8px;
+  cursor: pointer;
+}
+
+.flex-box-btn:hover {
+  background-color: #e5e5e5;
+  color: orange;
+}
+
+.flex-box-link {
+  color: #03599d;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: -1px;
+  font-family: "Oswald", sans-serif;
+  display: block;
+  transform: scale(1,1.2);
+  
+}
+.flex-box-link:hover{
+    text-decoration: underline;
+}

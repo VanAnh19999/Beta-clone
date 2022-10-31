@@ -1,0 +1,19 @@
+.Co h3{
+    margin-top: 30px;
+    text-align: center;
+    color: rgb(30, 30, 219);
+}
+.Co h4{ 
+    color: rgb(247, 178, 50);
+}
+.Co-list h4{
+    color: black;
+}
+.Co{
+    margin: 30px;
+    line-height: 2rem;
+}
+.Co img{
+   width: 100%;
+   height: 100%;
+}

@@ -1,0 +1,16 @@
+.user-info {
+    width: 1000px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 10%);
+    margin-bottom: 100px;
+}
+
+.user-info .ant-descriptions-item-label {
+    font-weight: 600;
+} 
+
+.info-flex {
+    display: flex;
+    flex-direction: column;
+}

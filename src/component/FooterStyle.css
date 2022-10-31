@@ -1,0 +1,81 @@
+.list-box {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  border-top: 2px solid rgba(168, 162, 162, 0.129);
+  padding: 3% 15% 0% 15%;
+}
+.col-1,
+.col-2,
+.col-3,
+.col-4 {
+  justify-self: start;
+}
+
+.logo-image-footer {
+  margin-left: -15px;
+  width: 130px;
+  margin-bottom: 10px;
+}
+
+.col-4 {
+  width: 250px;
+  font-size: 12px;
+}
+.col-4 h3 {
+  font-size: 15px;
+}
+.col-4 h2 {
+  font-size: 23px;
+}
+
+.col-1 {
+  width: 200px;
+}
+
+.col-2{
+  width: 400px;
+  font-size: 13px;
+}
+
+.footer-heading {
+  margin-bottom: 10px;
+  border-bottom: 4px solid #4964be;
+  width: fit-content;
+}
+
+.footer-location-link li a{
+  line-break: unset;
+  cursor: pointer;
+  color: #333;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  transform: scale(0.75, 1.2);
+  display: inline-block;
+  margin: auto;
+  letter-spacing: 0.01em;
+}
+.footer-style{
+  list-style-type: "> ";
+  margin: 0;
+  padding: 0;
+}
+
+.footer-style li a:hover{
+  text-decoration: underline;
+  color: #337ab7;
+
+}
+
+.footer-style li a{
+  cursor: pointer;
+  color: #333;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  margin: auto;
+  font-size: 13px;
+}
+
+.footer-style li::marker {
+  font-size: 11px;
+  font-weight: 600;
+}

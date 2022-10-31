@@ -1,0 +1,41 @@
+
+body {
+    background-color: #f8f8f8;
+}
+
+
+.slider{
+    width: 100%; 
+}
+
+.normal-img {
+    width: 82%;
+}
+
+.nav {
+    background-color: #f8f8f8;
+}
+#nav1 {
+    display: grid;
+    height: 80px;
+    box-shadow: 0 0 0 2px rgba(0,0,0, 0.05);
+    grid-template-columns: auto auto auto auto;
+    
+    text-align: center;
+    align-items: center;
+}
+.location{
+    display: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+.city{
+    border: 1px solid black;
+    width: 5rem;
+    text-align: center;
+    display: flex;
+}
+.city:hover ~ .location{
+    display: block;
+    position: absolute;
+}

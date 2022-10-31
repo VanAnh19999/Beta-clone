@@ -1,0 +1,16 @@
+.movie-slide button {
+  margin-left: 2px;
+  font-size: 25px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-weight: 100;
+  background-color: white;
+  border-bottom: 5px solid rgb(0, 212, 255);
+  word-spacing: 2px;
+  padding: 1rem;
+}
+.movie-slide {
+  margin-left: 22%;
+  margin-top: 2rem;
+}

@@ -1,0 +1,17 @@
+.tab-pane {
+  margin-top: 3%;
+}
+
+.ant-tabs-tab-btn {
+  line-height: 1.5em;
+  font-size: 28px;
+  font-family: "Oswald", sans-serif;
+  transform: scale(0.8, 1.2);
+  font-weight: 600;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+}
+
+.ant-tabs-tab {
+    margin: 0 !important;
+}
